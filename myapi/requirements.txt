@@ -1,0 +1,3 @@
+fastapi
+uvloop
+gffutils==0.12
